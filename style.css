@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+li {
+    margin: 25px 55px 15px 55px;
+}
+
+body {
+font-family: 'Noto Serif', serif;
+}
