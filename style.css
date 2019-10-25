@@ -11,3 +11,12 @@ li {
 body {
 font-family: 'Noto Serif', serif;
 }
+
+nav ul li a {
+    text-decoration: none;
+    color: #008080;
+}
+
+nav ul li a:hover {
+    color: #99ff66;
+}
